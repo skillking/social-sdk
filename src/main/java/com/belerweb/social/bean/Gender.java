@@ -13,7 +13,7 @@ public enum Gender {
     this.intValue = intValue;
     this.code = code;
     this.zhValue = zhValue;
-    this.enValue = zhValue;
+    this.enValue = enValue;
   }
 
   public int value() {
